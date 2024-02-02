@@ -1,0 +1,45 @@
+/* Index style */
+
+h1,
+h2 {
+    font-size: 50px;
+    font-weight: bold;
+    font-family: serif, serif, sans-serif;
+    color: rgb(32, 133, 76);
+}
+
+.list.recipes {
+    font-size: large;
+    font-weight: bold;
+    font-family: serif, serif, sans-serif;
+}
+
+.recipes-baner {
+    height: auto;
+    width: 600px;
+}
+
+/* Recipes style */
+.recipe-image {
+    height: auto;
+    width: 600px;
+}
+
+h2 {
+    font-size: 30px;
+    color: rgb(41, 95, 177);
+}
+
+.content {
+    font-size: 16;
+    font-weight: bold;
+    font-family: serif, serif, sans-serif;
+    color: chocolate;
+}
+
+#home-page {
+    font-size: 20;
+    font-weight: bold;
+    font-family: serif, serif, sans-serif;
+    color: lightgreen;
+}
