@@ -1,5 +1,12 @@
 /* Index style */
 
+.home-page-container {
+    width: 600px;
+    margin: 0 auto;
+    background-color: aliceblue;
+    padding: 0px 30px;
+}
+
 h1,
 h2 {
     font-size: 50px;
