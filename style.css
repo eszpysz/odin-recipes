@@ -1,14 +1,14 @@
 /* Index style */
 
-.home-page-container {
+body {
+    background-color: rgba(243, 219, 191, 0.403);
     width: 600px;
     margin: 0 auto;
-    background-color: aliceblue;
-    padding: 0px 30px;
 }
 
 h1,
 h2 {
+    text-align: center;
     font-size: 50px;
     font-weight: bold;
     font-family: serif, serif, sans-serif;
@@ -21,15 +21,22 @@ h2 {
     font-family: serif, serif, sans-serif;
 }
 
+.list.recipes li {
+    margin-left: 200px;
+}
+
 .recipes-baner {
     height: auto;
     width: 600px;
+    border: 1px solid black;
 }
 
 /* Recipes style */
+
 .recipe-image {
     height: auto;
     width: 600px;
+    border: 1px solid black;
 }
 
 h2 {
@@ -49,4 +56,5 @@ h2 {
     font-weight: bold;
     font-family: serif, serif, sans-serif;
     color: lightgreen;
+    text-align: center;
 }
